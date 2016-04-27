@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-5" uri="file:/C:/Users/mateolan/Box%20Sync/Sensory%20Ontology/OntoSense.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/ro_import.owl" uri="imports/ro_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/envo_import.owl" uri="imports/envo_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/envo_import.owl" uri="imports/envo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/ro_import.owl" uri="imports/ro_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461364085676" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="OntoEating.owl"/>
+    </group>
+</catalog>

@@ -7,11 +7,11 @@
     <uri id="Imports Wizard Entry" name="file:/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
     <uri id="Imports Wizard Entry" name="file:/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/envo_import.owl" uri="imports/envo_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/ro_import.owl" uri="imports/ro_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1461364085676" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="OntoEating.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="/imports/envo_import.owl" uri="imports/envo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="/imports/ro_import.owl" uri="imports/ro_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1461868875861" name="http://purl.obolibrary.org/obo/foodon-edit.owl" uri="uc_processing.owl"/>
     </group>
 </catalog>

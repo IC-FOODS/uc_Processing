@@ -1,3 +1,3 @@
 # uc_Processing
-An ontology to unambiguously characterize processing methods and the products they engender.
+An ontology to Unambiguously Characterize processing methods and the products they engender.
  
